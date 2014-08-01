@@ -1,0 +1,202 @@
+#header { 
+	background-color: #fafafa;
+	color: #464646;
+	font-size: 3.125em;
+	font-family: 'PT Sans', 'sans-serif';
+	height: 100px;
+	margin: 0px 0px 0px 0px;
+	padding: 20px 20px 20px 20px;
+	text-align: center;
+}
+
+#logoHeader { 
+	background-color: #fafafa;
+	color: #464646;
+	font-size: 2.50em;
+	font-family: 'PT Sans', 'sans-serif';
+	height: 100px;
+	margin: 0px 0px 0px 0px;
+	padding: 20px 20px 20px 20px;
+	text-align: center;
+}
+
+#searchBox {
+	background-color: #0e97c1;  
+	position: inline;
+  	height: 55px;
+  	padding: 10px; 
+	font-family: 'PT Sans', 'sans-serif';
+	color: #ffffff;
+}
+
+#submit {       
+	height: 25px;
+  	margin: 0 0 0 10px;
+  	padding: 0;
+  	width: 90px;
+  	cursor: pointer;
+  	font: bold 14px 'PT Sans', 'sans-serif';
+  	color: #ffffff;    
+ 
+}
+
+#loginText {
+	font-family: 'PT Sans', 'sans-serif';
+	color: #414041;
+	font-size: 1.250em;
+}
+
+#headImg {
+	width: 200px;
+	height: 50px;
+	float: left;
+}
+
+#open {
+	color: #464646;
+	font-size: 1.250em;
+	font-family: 'PT Sans', 'sans-serif';
+	margin-bottom: 40px;
+}
+
+ul {
+	position: ;
+	margin: 10px 10px 10px 10px;
+	padding: 10px;
+}
+
+
+td a { 
+   display: block; 
+}
+
+a:hover {
+	
+}
+
+#usss2014h3 {
+	font-family: 'PT Sans', 'sans-serif';
+	font-size: 1.250em;
+}
+
+#logoImg {
+	width: 200px;
+	height: 100px;
+	float: middle;
+}
+
+#rankingHead {
+	/*border: 2px solid #f1612a;
+	margin: auto; */
+	padding: 10px 10px;
+}
+
+#rankingHeadText {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.5em;	
+	color: #414041;
+}
+
+}
+
+.info  {
+	font-family: 'Titillium Web', 'sans-serif';
+	font-size: 0.625em;
+	font-weight: normal;
+	color: #464646;
+	vertical-align: middle;
+}
+
+#login {
+	font-family: 'Titillium Web', 'sans-serif';
+	font-size: 1.250em;
+	font-weight: normal;
+	color: #464646;
+	vertical-align: middle;
+}
+
+/* Proposal Table*/
+td {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 0.9em;
+	font-weight: normal;
+	color: #464646;
+}
+
+#surveyTable {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+
+#tableHeadText {
+	font-family: 'PT Sans', 'sans-serif';
+	font-size: 0.9em;
+	text-align:left;
+}
+
+.tablePad {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.hoverrow:hover {
+       background: #e2e3e4;
+       cursor: pointer;
+}
+
+
+#open {
+	position: inline;
+  	height: 25px;
+  	padding: 10px;
+  	margin-left: -10px; 
+	font-family: 'PT Sans', 'sans-serif';
+}
+
+/*button*/
+.button {
+	-moz-box-shadow:inset 0px 0px 0px 0px #d9fbbe;
+	-webkit-box-shadow:inset 0px 0px 0px 0px #d9fbbe;
+	box-shadow:inset 0px 0px 0px 0px #d9fbbe;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #b8e356), color-stop(1, #a5cc52) );
+	background:-moz-linear-gradient( center top, #b8e356 5%, #a5cc52 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b8e356', endColorstr='#a5cc52');
+	background-color:#b8e356;
+	-webkit-border-top-left-radius:15px;
+	-moz-border-radius-topleft:15px;
+	border-top-left-radius:15px;
+	-webkit-border-top-right-radius:15px;
+	-moz-border-radius-topright:15px;
+	border-top-right-radius:15px;
+	-webkit-border-bottom-right-radius:15px;
+	-moz-border-radius-bottomright:15px;
+	border-bottom-right-radius:15px;
+	-webkit-border-bottom-left-radius:15px;
+	-moz-border-radius-bottomleft:15px;
+	border-bottom-left-radius:15px;
+	text-indent:0;
+	border:1px solid #87bc45;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	font-style:normal;
+	height:20px;
+	line-height:20px;
+	width:55px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #86ae47;
+}
+
+
+
+
+
+
+
+
+	
+

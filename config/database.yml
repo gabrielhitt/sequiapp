@@ -19,7 +19,7 @@ development:
   encoding: unicode
   database: sequiapp_development
   pool: 5
-  username: sequiapp
+  username: gabereal
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -48,7 +48,7 @@ test:
   encoding: unicode
   database: sequiapp_test
   pool: 5
-  username: sequiapp
+  username: gabereal
   password:
 
 production:
